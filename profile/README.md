@@ -29,7 +29,7 @@ This organization provides **reusable infrastructure modules** to help teams bui
 | terraform-outscale-networking    | Manage outscale networking resources                                        | [Link](https://github.com/tf-outscale-modules/terraform-outscale-networking) |
 | terraform-outscale-storage       | Manage outscale Object Storage resources.                                   | [Link](https://github.com/tf-outscale-modules/terraform-outscale-storage) |
 | terraform-outscale-compute       | Provision and manage outscale compute instances.                            | [Link](https://github.com/tf-outscale-modules/terraform-outscale-compute) |
-
+| terraform-outscale-oks           | Provision and manage outscale OKS (Kubernetes) projects/clusters.           | [Link](https://github.com/tf-outscale-modules/terraform-outscale-oks) |
 
 
 ---
@@ -38,7 +38,6 @@ This organization provides **reusable infrastructure modules** to help teams bui
 
 | Name                           | Description                                      |
 |--------------------------------|--------------------------------------------------|
-| terraform-outscale-cloud-native  | Create and manage outscale OKS clusters.                                   [Link](https://github.com/tf-outscale-modules/terraform-outscale-cloud-native) |
 | terraform-outscale-object-storage| Provision and manage outscale object storage.                              [Link](https://github.com/tf-outscale-modules/terraform-outscale-object-storage) |
 | etc.                           | ...                                              |
 
