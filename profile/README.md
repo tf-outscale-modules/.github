@@ -33,14 +33,6 @@ This organization provides **reusable infrastructure modules** to help teams bui
 | terraform-outscale-object-storage | Provision and manage outscale Object Storage (OOS, S3-compatible) buckets.  | [Link](https://github.com/tf-outscale-modules/terraform-outscale-object-storage) |
 
 
----
-
-### 🧪 Coming Soon
-
-| Name                           | Description                                      |
-|--------------------------------|--------------------------------------------------|
-| etc.                           | ...                                              |
-
 ## 🤝 Contributing
 
 Contributions are **welcome and encouraged**.
