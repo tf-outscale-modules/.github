@@ -27,9 +27,10 @@ This organization provides **reusable infrastructure modules** to help teams bui
 |----------------------------------|-----------------------------------------------------------------------------|------------|
 | terraform-outscale-iam           | Manage outscale IAM users, applications, policies, and permissions.         | [Link](https://github.com/tf-outscale-modules/terraform-outscale-iam) |
 | terraform-outscale-networking    | Manage outscale networking resources                                        | [Link](https://github.com/tf-outscale-modules/terraform-outscale-networking) |
-| terraform-outscale-storage       | Manage outscale Object Storage resources.                                   | [Link](https://github.com/tf-outscale-modules/terraform-outscale-storage) |
+| terraform-outscale-storage       | Manage outscale Block Storage: BSU volumes, snapshots and images (OMI).     | [Link](https://github.com/tf-outscale-modules/terraform-outscale-storage) |
 | terraform-outscale-compute       | Provision and manage outscale compute instances.                            | [Link](https://github.com/tf-outscale-modules/terraform-outscale-compute) |
 | terraform-outscale-oks           | Provision and manage outscale OKS (Kubernetes) projects/clusters.           | [Link](https://github.com/tf-outscale-modules/terraform-outscale-oks) |
+| terraform-outscale-object-storage | Provision and manage outscale Object Storage (OOS, S3-compatible) buckets.  | [Link](https://github.com/tf-outscale-modules/terraform-outscale-object-storage) |
 
 
 ---
@@ -38,7 +39,6 @@ This organization provides **reusable infrastructure modules** to help teams bui
 
 | Name                           | Description                                      |
 |--------------------------------|--------------------------------------------------|
-| terraform-outscale-object-storage| Provision and manage outscale object storage.                              [Link](https://github.com/tf-outscale-modules/terraform-outscale-object-storage) |
 | etc.                           | ...                                              |
 
 ## 🤝 Contributing
